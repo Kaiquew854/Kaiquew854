@@ -1,8 +1,7 @@
 Olá eu sou o Kaique Winicios🖖
 
--Estudando sistemas para internet📘
-
--RA Unicesumar: 20034680-5
+-Graduado em sistemas para internet📘
+-Desenvolvedor Web 🌍
 
  <div>
   <a href="hhttps://github.com/Kaiquew854">

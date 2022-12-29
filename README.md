@@ -23,10 +23,6 @@ Olá eu sou o Kaique Winicios🖖
   <a href="https://www.linkedin.com/in/kaique-winicios-b9484ba3" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  
-  [linkedin](https://www.linkedin.com/in/kaique-winicios-b9484ba3/){:target="_blank"}
-  [Hello, world!](http://example.com/){target="_blank"}
-  
 </div>
 
 

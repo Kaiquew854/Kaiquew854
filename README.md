@@ -14,7 +14,7 @@ Olá eu sou o Kaique Winicios🖖
   <img align="center" alt="kaique-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kaique-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="kaique-php" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="kaiquebootstrap" height="30"width="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstraporiginal.svg"> 
+  <img align="center" alt="bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstraporiginal.svg">
   <img align="center" alt="kaique-nodejs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
  

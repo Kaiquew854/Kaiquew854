@@ -1,7 +1,8 @@
 Olá eu sou o Kaique Winicios🖖
 
--Graduado em sistemas para internet📘
+-Graduado em sistemas para internet📘 <br>
 -Desenvolvedor Web 🌍
+
 
  <div>
   <a href="hhttps://github.com/Kaiquew854">
